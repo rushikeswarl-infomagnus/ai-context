@@ -15,6 +15,8 @@ ai-context/
 ├── database-schema.md         ← Prisma models, queries, migration workflow
 ├── api-reference.md           ← REST endpoints, validation, response shape
 ├── commands.md                ← Build, dev, test, deploy commands
+├── repo-map.md                ← Full annotated directory tree & ownership
+├── cross-repo-context.md      ← Cross-team rules, service communication
 └── packages/                  ← Per-package deep context
     ├── web.md                 ← @acme/web (Next.js)
     ├── api.md                 ← @acme/api (Express)
